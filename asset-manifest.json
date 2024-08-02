@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/administracion-malim/static/css/main.f855e6bc.css",
-    "main.js": "/administracion-malim/static/js/main.cadccc7f.js",
-    "static/js/453.219afaa4.chunk.js": "/administracion-malim/static/js/453.219afaa4.chunk.js",
-    "static/media/logo.svg": "/administracion-malim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/administracion-malim/index.html",
-    "main.f855e6bc.css.map": "/administracion-malim/static/css/main.f855e6bc.css.map",
-    "main.cadccc7f.js.map": "/administracion-malim/static/js/main.cadccc7f.js.map",
-    "453.219afaa4.chunk.js.map": "/administracion-malim/static/js/453.219afaa4.chunk.js.map"
+    "main.css": "/aministracion-malim/static/css/main.f855e6bc.css",
+    "main.js": "/aministracion-malim/static/js/main.48c568fa.js",
+    "static/js/453.219afaa4.chunk.js": "/aministracion-malim/static/js/453.219afaa4.chunk.js",
+    "static/media/logo.svg": "/aministracion-malim/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/aministracion-malim/index.html",
+    "main.f855e6bc.css.map": "/aministracion-malim/static/css/main.f855e6bc.css.map",
+    "main.48c568fa.js.map": "/aministracion-malim/static/js/main.48c568fa.js.map",
+    "453.219afaa4.chunk.js.map": "/aministracion-malim/static/js/453.219afaa4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.cadccc7f.js"
+    "static/js/main.48c568fa.js"
   ]
 }
